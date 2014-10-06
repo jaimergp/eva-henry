@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Editar"
+AuthUserFile "/home/nuestrop/.htpasswds/public_html/editar/passwd"
+require valid-user

@@ -1,0 +1,1346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"chimera",
+				"chimera_xform"
+			],
+			[
+				"parse",
+				"parse_threshold"
+			],
+			[
+				"rand",
+				"rand_rotamer"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"built",
+				"built_atoms"
+			],
+			[
+				"base",
+				"base"
+			],
+			[
+				"num",
+				"num_of_clashes_r"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"target",
+				"targetpos"
+			],
+			[
+				"useRotamer",
+				"useBestRotamer"
+			],
+			[
+				"create",
+				"createRotation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contacto.html",
+			"settings":
+			{
+				"buffer_size": 4400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 22548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "elgrandia.html",
+			"settings":
+			{
+				"buffer_size": 4445,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ss m",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ss restr",
+				"Set Syntax: reStructuredText Improved"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss rt",
+				"Set Syntax: reStructuredText Improved"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"ss",
+				"Set Syntax: Markdown"
+			],
+			[
+				"git",
+				"GitStatus: Unmerged files"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss ini",
+				"Set Syntax: INI"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"sss",
+				"Set Syntax: JSON"
+			],
+			[
+				"g stat",
+				"Git: Status"
+			],
+			[
+				"git bran",
+				"Git: New Branch"
+			],
+			[
+				"ss ",
+				"Set Syntax: Makefile"
+			],
+			[
+				"ss ba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git branch",
+				"Git: New Branch"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"todo",
+				"Set Syntax: mdTodo"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"branc",
+				"Git: New Branch"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"puss",
+				"Git: Push Tags"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markd",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"packga",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff All"
+			],
+			[
+				"git  comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git tog",
+				"Git: Toggle Annotations"
+			],
+			[
+				"annotat",
+				"Git: Toggle Annotations"
+			],
+			[
+				"annota",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git log all",
+				"Git: Log All"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 329.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/nuestroproyectodiez/web.sublime-project",
+		"/C/xampp/htdocs/henry/listadebodas.html",
+		"/C/xampp/htdocs/henry/tiempos.html",
+		"/C/xampp/htdocs/henry/elgrandia.html",
+		"/C/xampp/htdocs/henry/index.html",
+		"/C/xampp/htdocs/nuestroproyectodiez/apuntados.php",
+		"/C/xampp/htdocs/nuestroproyectodiez/css/jquery.modal.css",
+		"/C/xampp/htdocs/nuestroproyectodiez/css/style.css",
+		"/C/xampp/htdocs/nuestroproyectodiez/ver_regalos.php",
+		"/C/xampp/htdocs/nuestroproyectodiez/regalos.txt",
+		"/C/xampp/htdocs/nuestroproyectodiez/enviar.php",
+		"/C/xampp/htdocs/nuestroproyectodiez/contacto.html",
+		"/C/xampp/htdocs/nuestroproyectodiez/listadebodas.html",
+		"/C/Users/Jaime/Downloads/jquery-countdown-master/jquery-countdown-master/js/jquery.countdown.js",
+		"/C/xampp/htdocs/nuestroproyectodiez/js/jquery.countdown.min.js",
+		"/C/xampp/htdocs/nuestroproyectodiez/tiempos.html",
+		"/C/xampp/htdocs/nuestroproyectodiez/elgrandia.html",
+		"/C/xampp/htdocs/nuestroproyectodiez/index.html",
+		"/C/Users/Jaime/Downloads/html5up-twenty/contact.html",
+		"/C/Users/Jaime/Downloads/jquery-countdown-master/jquery-countdown-master/css/media.css",
+		"/C/Users/Jaime/AppData/Roaming/Sublime Text 2/Packages/FTPSync/Default (Windows).sublime-keymap",
+		"/C/Users/Jaime/AppData/Roaming/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/C/git/miproyectodiez/css/style.css",
+		"/C/xampp/htdocs/regalos/editor/editar.php",
+		"/C/xampp/htdocs/regalos/regalos.txt",
+		"/C/xampp/htdocs/regalos/regalos.php",
+		"/C/xampp/htdocs/regalos/ver_regalos.php",
+		"/C/git/miproyectodiez/listadebodas.html",
+		"/C/git/miproyectodiez/index.html",
+		"/C/git/miproyectodiez/sass/_vars.scss",
+		"/C/git/miproyectodiez/css/jquery.modal.css",
+		"/C/Users/Jaime/Downloads/jquery-modal-master/jquery-modal-master/jquery.modal.js",
+		"/C/xampp/htdocs/regalos.php",
+		"/C/xampp/htdocs/ver_regalos.php",
+		"/C/git/miproyectodiez/regalos.php",
+		"/C/Users/Jaime/Downloads/getParticipantes.php",
+		"/C/Users/Jaime/Downloads/regalos.php",
+		"/C/Users/Jaime/Google Drive/UAB/pract/thesis/ppt/outline.md",
+		"/C/Users/Jaime/Google Drive/UAB/pract/thesis/thesis.sublime-project",
+		"/E/Thesis title.md",
+		"/C/Users/Jaime/Documents/Computer Hoy/411 Nero BackItUp/apertura.md",
+		"/C/Users/Jaime/Desktop/webs/Biotab/empresa/contacto.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/empresa/acreditaciones.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/empresa/quienes-somos.html",
+		"/C/Users/Jaime/Documents/web2/modules/mod_yoo_slider/mod_yoo_slider.css.php",
+		"/C/Users/Jaime/Desktop/webs/Biotab/departamentos/formacion.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/departamentos/auditoria.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/departamentos/asesoria.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/departamentos/laboratorio.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/index.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/servicios.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/empresa.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/departamentos.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/aviso-legal.html",
+		"/C/Users/Jaime/Desktop/webs/Biotab/index-2.html",
+		"/C/Users/Jaime/Downloads/test.html",
+		"/C/git/lanasextremadura/_includes/footer.html",
+		"/C/git/lanasextremadura/style.css",
+		"/C/git/lanasextremadura/servicios.html",
+		"/C/git/lanasextremadura/index.html",
+		"/C/git/lanasextremadura/contacto.html",
+		"/C/git/lanasextremadura/_includes/header.html",
+		"/C/git/lanasextremadura/lanas.html",
+		"/C/git/lanasextremadura/.gitignore",
+		"/C/git/lanasextremadura/contexto-internacional.html",
+		"/C/git/lanasextremadura/contexto-nacional.html",
+		"/C/git/lanasextremadura/nosotros.html",
+		"/C/git/lanasextremadura/_includes/big2.html",
+		"/C/git/lanasextremadura/_includes/big1.html",
+		"/C/git/lanasextremadura/_includes/header.htm",
+		"/C/git/lanasextremadura/lanasextremadura.sublime-project",
+		"/home/jr/w/lanasextremadura/contact.html",
+		"/home/jr/w/lanasextremadura/style.css",
+		"/home/jr/w/lanasextremadura/contacto.html",
+		"/home/jr/w/lanasextremadura/index.html",
+		"/home/jr/w/lanasextremadura/servicios.html",
+		"/home/jr/w/lanasextremadura/contexto-nacional.html",
+		"/home/jr/w/lanasextremadura/contexto-internacional.html",
+		"/home/jr/w/lanasextremadura/nosotros.html",
+		"/home/jr/w/lanasextremadura/lanas.html",
+		"/home/jr/Downloads/contacta-con-nosotros/index.html",
+		"/home/jr/w/lanasextremadura/typography.html",
+		"/home/jr/w/lanasextremadura/full-width.html",
+		"/home/jr/w/lanasextremadura/lanasextremadura.sublime-project",
+		"/home/jr/.config/sublime-text-2/Packages/LaTeX Word Count/LaTeXWordCount.sublime-settings",
+		"/home/jr/.config/sublime-text-2/Packages/User/LaTeXWordCount.sublime-settings",
+		"/home/jr/Downloads/choy/Accede a tu PC de forma remota.md",
+		"/home/jr/x/hyde_benchmark.py",
+		"/home/jr/x/benchmark.ini",
+		"/home/jr/x/hyde/mof3d/utils/box.py",
+		"/home/jr/x/hyde/mof3d/molecule.py",
+		"/home/jr/x/hyde/alum.py",
+		"/home/jr/x/hyde/alum_run.py",
+		"/home/jr/x/al/alum_run.py",
+		"/home/jr/x/al/alum.py",
+		"/home/jr/x/hyde/mof3d/score/chem.py",
+		"/home/jr/x/hyde/mof3d/move.py",
+		"/home/jr/.local/UCSF-Chimera64-2014-03-28/share/checkOpenGL.py",
+		"/home/jr/bio.txt",
+		"/home/jr/x/xform.py",
+		"/home/jr/x/xform2.py",
+		"/home/jr/x/hyde/hyde7.py",
+		"/home/jr/x/hyde/mof3d/utils/parse.py",
+		"/home/jr/x/test.ini",
+		"/home/jr/x/bla.py",
+		"/home/jr/x/polihoh.attr",
+		"/home/jr/x/polihoh.mol2",
+		"/home/jr/x/hyde/mol2/01/ethane.attr",
+		"/home/jr/x/test.py",
+		"/home/jr/x/protein.mol2",
+		"/home/jr/x/hyde/mof3d.ini",
+		"/home/jr/x/hyde/mol2/02/rh.attr",
+		"/home/jr/x/hyde/mol2/01/propane.attr",
+		"/home/jr/x/hyde/mol2/01/pentane.attr",
+		"/home/jr/x/hyde/mol2/02/rh.mol2",
+		"/home/jr/.config/sublime-text-2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/jr/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/jr/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/jr/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+		"/home/jr/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/jr/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jr/x/hyde/mol2/ethanol.mol2",
+		"/home/jr/x/hyde/mol2/01/propane.mol2",
+		"/home/jr/x/hyde/mol2/01/pentane.mol2",
+		"/home/jr/x/hyde/mol2/01/ethane.mol2",
+		"/home/jr/x/hyde/mof3d/utils/__init__.py",
+		"/home/jr/x/hyde/mof3d/score/target.py",
+		"/home/jr/.config/sublime-text-2/Packages/INI/INI.tmLanguage"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\git\\miproyectodiez",
+			"<open files>",
+			"C:\\Users\\Jaime\\Desktop\\webs\\Biotab,*.html",
+			"<open files>",
+			"/home/jr/.local/UCSF-Chimera64-2014-03-28/share,*.py",
+			"/home/jr/x/hyde"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ul",
+			"sans",
+			"footer",
+			"7C8081",
+			"h2",
+			"color",
+			"b2b2",
+			"white",
+			"fff",
+			"white",
+			"255",
+			"fff",
+			"dropotron",
+			"Sue Ellen Francisco",
+			"header",
+			"menu",
+			"&quot;",
+			"pello",
+			"00",
+			"juego de copas",
+			"data-descr=\"\"",
+			"Date",
+			"var",
+			"upper",
+			"inner",
+			"wrapper",
+			"383px",
+			"logo",
+			"nav",
+			"font-fa",
+			"  ",
+			"ul li",
+			"ul ",
+			"ul",
+			"class=\"image featured\"",
+			"<a href=\"#\" class=",
+			"modal",
+			"83D3C9",
+			"header",
+			"banner.png",
+			"banner.p",
+			"svg",
+			"83d3c9",
+			"background",
+			"svg",
+			"fa-bar-chart-o",
+			"icon",
+			"fa-bar-chart-o",
+			"icon fa",
+			"banner",
+			"header",
+			"\"images",
+			"\"modules",
+			"\"media",
+			"\"templates",
+			"\"images",
+			"\"modules",
+			"\"media",
+			"\"templates",
+			"Jueves 12 de Junio de 2014",
+			"http://www.biotab.es/",
+			"index-2.html",
+			"\"index-2.html",
+			"index-2.html",
+			"lite1",
+			"form",
+			"{% include header.html %}\n\n<!-- Begin Wrapper -->\n<div class=\"wrapper\"><!-- Begin Intro -->\n<div class=\"intro\">La seriedad, el trato cercano y correcto, la calidad de los servicios prestados, la pronta retirada de las <strong>lanas</strong> y el inmediato pago de las mismas a precios competitivos hacen que nuestros clientes queden satisfechos y confíen en nosotros campaña tras campaña.</div>\n<!-- End Intro --> \n<!-- Begin Container -->",
+			"<!-- Begin Footer -->\n<div class=\"footer-wrapper\">\n<div id=\"footer\" class=\"four\">\n		<div id=\"first\" class=\"widget-area\">\n<p>[place]</p>\n			<div class=\"widget widget_archive\">\n				<h3 class=\"widget-title\">Archives</h3>\n				<ul>\n					<li><a href=\"#\">September 2012</a> (6)</li>\n					<li><a href=\"#\">August 2012</a> (2)</li>\n					<li><a href=\"#\">July 2012</a> (2)</li>\n					<li><a href=\"#\">June 2012</a> (4)</li>\n					<li><a href=\"#\">May 2012</a> (3)</li>\n					<li><a href=\"#\">January 2012</a> (1)</li>\n				</ul>\n			</div>	\n		</div><!-- #first .widget-area -->\n	\n		<div id=\"second\" class=\"widget-area\">\n			<div id=\"twitter-2\" class=\"widget example\">\n					<h3 class=\"widget-title\">Texto de prueba</h3>\n					\n					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n					cillum dolore eu fugiat nulla pariatur.</p>\n			</div>\n		</div><!-- #second .widget-area -->\n	\n	\n		<div id=\"third\" class=\"widget-area\">\n		<div id=\"example-widget-3\" class=\"widget example\">\n			<h3 class=\"widget-title\">Algunas de nuestras lanas</h3>\n			<ul class=\"post-list\">\n			  	<li> \n			  		<div class=\"frame\">\n			  			<a href=\"lanas.html#tipo-2\"><img src=\"style/images/lanas/tipo2.thumb.jpg\" /></a>\n			  		</div>\n					<div class=\"meta\">\n					    <h3><a href=\"lanas.html#tipo-2\">Lana de Tipo 2</a></h6>\n					    <em>22-23 micras</em>\n				    </div>\n				</li>\n				<li> \n			  		<div class=\"frame\">\n			  			<a href=\"lanas.html#tipo-3\"><img src=\"style/images/lanas/tipo3.thumb.jpg\" /></a>\n			  		</div>\n					<div class=\"meta\">\n					    <h3><a href=\"lanas.html#tipo-3\">Lana de Tipo 3</a></h6>\n					    <em>24-25 micras</em>\n				    </div>\n				</li>\n				<li> \n			  		<div class=\"frame\">\n			  			<a href=\"lanas.html#tipo-4\"><img src=\"style/images/lanas/tipo4.thumb.jpg\" /></a>\n			  		</div>\n					<div class=\"meta\">\n					    <h3><a href=\"lanas.html#tipo-4\">Lana de Tipo 4</a></h6>\n					    <em>25-27 micras</em>\n				    </div>\n				</li>\n			</ul>\n			\n		</div>\n		</div><!-- #third .widget-area -->\n		\n		<div id=\"fourth\" class=\"widget-area\">\n		<div class=\"widget\">\n			<h3 class=\"widget-title\">Contacta con nosotros</h3>\n			<p><strong>Lanas Extremadura S.L.</strong><br />622 56 90 40</p>\n			<p><a href=\"#\" style=\"border-bottom: 1px dotted #AAA\">Más información</a>\n		</div>\n		</div><!-- #fourth .widget-area -->\n	</div>\n</div>\n<div class=\"site-generator-wrapper\">\n	<div class=\"site-generator\">Diseño original de <a href=\"http://elemisfreebies.com\">elemis</a> // Adaptado por <a href=\"https://www.twitter.com/jaime_rgp\" target=\"_blank\">@jaime_rgp</a> // Material fotográfico proporcionado por Sara Viviens</div>\n</div>\n<!-- End Footer --> \n<script type=\"text/javascript\" src=\"style/js/scripts.js\"></script>\n</body>\n</html>",
+			"<li><a href=\"#\">Contacto</a></li>",
+			"					</",
+			"<span class=\"dropcap\">(.)</span> ",
+			"intro",
+			"4e8369",
+			"86aca3",
+			"site-ge",
+			"assess",
+			"atom pairs is",
+			"rmsd",
+			"flexibility",
+			"flexible",
+			"limit",
+			"y",
+			"share",
+			"shareXform",
+			")]\n",
+			"initxform",
+			"print",
+			"priny",
+			"\\",
+			"type",
+			"mof3d",
+			"search3",
+			"100000",
+			"rotations",
+			"\" (.*?) \"",
+			" ,",
+			" :",
+			" .",
+			"-\\n",
+			"\\n",
+			"-\\n",
+			"selection",
+			"print",
+			"atoms_by_serial",
+			"chimera.openModels.",
+			"place",
+			"SplitMolecule",
+			"openModels.open",
+			"close=",
+			"new[0]",
+			"print",
+			"tmpl.anchor",
+			"mof3d.utils.box",
+			"cfg.atoms",
+			"old_res",
+			".ini",
+			"ini",
+			"Force-field free target-driven docking algorithm",
+			"FETRA (F3T2A)",
+			"fetra",
+			"build",
+			"hyde5",
+			"calc.",
+			"score",
+			"mol",
+			"mol_library",
+			"oldRES",
+			"Highest"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"694738",
+			"Libre Baskerville",
+			"\"",
+			"class=\"image featured\" data-item=\"\" data-descr=\"\"",
+			"<a href=\"#apuntarse\" class=",
+			"\"../images",
+			"\"../modules",
+			"\"../media",
+			"\"../templates",
+			"\"../images",
+			"\"../modules",
+			"\"../media",
+			"\"../templates",
+			"",
+			"index.html",
+			"\"index.html",
+			"index.html",
+			"{% include header.html %}\n<div class=\"wrapper\">\n{% include big1.html %}",
+			"{% include footer.html %}",
+			"<li><a href=\"contacto.html\">Contacto</a></li>",
+			"\\1",
+			"2f835a",
+			"4e8369",
+			",",
+			":",
+			".",
+			"",
+			" ",
+			"",
+			"anchor",
+			"box",
+			"Multi-Objective Force-Field-Free Docking",
+			"MOF3D",
+			"mof3d",
+			"old_res",
+			"'\\1', ",
+			"'\\1'",
+			"'{1}'",
+			"\"",
+			"\\t",
+			"\\t@",
+			"\\t",
+			"^\\t",
+			"(1)",
+			"{1}",
+			"",
+			"coord()",
+			"coord",
+			"xformCoord",
+			"coord",
+			"xformCoord",
+			"selection"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contacto.html",
+					"settings":
+					{
+						"buffer_size": 4400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2341,
+								2022
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1130.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "web.sublime-project",
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								45
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 22548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18363,
+								18363
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 20181.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2061,
+								2061
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1143.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "elgrandia.html",
+					"settings":
+					{
+						"buffer_size": 4445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2044,
+								2044
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 638.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/jr/x/mmtk/gaff.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,155 @@
+
+
+<!DOCTYPE HTML>
+<!--
+	Twenty by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Nuestro Proyecto Diez</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Enlace entre Patricia y Nacho" />
+		<meta name="keywords" content="boda patricia nacho" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="css/style-noscript.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<script>
+			$(document).ready(function(){
+				$('#submit').click(function(){
+					$.post("enviar.php", $("#contacto").serialize(),  function(response) {
+						$('#success').html(response);
+						//$('#success').hide('slow');
+						});
+					return false;
+				}); 
+			});
+		</script>
+	</head>
+	<body class="index">
+	
+		<!-- Header -->
+			<header id="header" class="alt">
+				<h1 id="logo">&nbsp;</h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">¡HOLA!</a></li>
+						<li><a href="elgrandia.html">El Gran Día</a></li>
+						<li><a href="tiempos.html">Tiempos</a></li>
+						<li><a href="listadebodas.html">Lista de Bodas</a></li>
+						<li class="current"><a href="contacto.html">Contacto</a></li>
+					</ul>
+				</nav>
+			</header>
+		<!-- CTA -->
+
+		
+		<!-- Main -->
+			<article id="main">
+<!-- 				<section id="cta">
+				<header style="padding: 10em 0 0 0; margin-bottom: -4em">
+					<h2>Esperamos vuestra confirmación</h2>
+					<p>Para cualquier cuestión adicional no dudéis en contactar con nosotros.</p>	
+					<p>Un fortísimo abrazo,<br /><strong>Patricia & Nacho</strong></p>
+				</header>	
+			
+				</section> -->
+				<header class="special container">
+					<h2>¡Eso es todo!</h2>
+					<p>&nbsp;</p>
+					<p>Por favor, confirmad vuestra asistencia lo antes posible y,<br /> si tenéis alguna duda, usad cualquiera de las formas<br /> de contacto que proporcionamos abajo.</p>
+					<p>Muchas gracias a todos,<br /><strong>Eva &amp; Henry</strong>.</p>
+				</header>
+				<!-- One -->
+					<section class="wrapper style4 special container small">
+					<div class="row">
+					
+						<div class="7u">
+						<!-- Content -->
+							<div class="content">
+								<form action="" method="post" id="contacto">
+									<div class="row half no-collapse-1">
+										<div class="6u">
+											<input type="text" name="name" placeholder="Nombre" />
+										</div>
+										<div class="6u">
+											<input type="text" name="email" placeholder="Dirección de correo" />
+										</div>
+									</div>
+									<div class="row half">
+										<div class="12u">
+											<input type="text" name="subject" placeholder="Asunto" />
+										</div>
+									</div>
+									<div class="row half">
+										<div class="12u">
+											<textarea name="message" placeholder="Mensaje" rows="7"></textarea>
+										</div>
+									</div>
+									<div class="row">
+										<div class="12u">
+											<ul class="buttons">
+												<li><input id="submit" type="submit" class="special" value="Enviar" /></li>
+											</ul>
+										</div>
+									</div>
+									<p>&nbsp;</p>									
+									<p id="success" style="color:green;"></p>
+								</form>
+							</div>
+						</div>
+						<div class="5u" style="font-size: 80%;">
+								<section>
+									<header>
+										<h3>Eva</h3>
+									</header>
+									<p>
+										XXXXXXXXX<br />
+										XXXXXXXXXX<br />
+										XXXXXXXXXXXXX<br />
+										XXXXXXXXXXXXXXX
+									</p>
+								</section>
+								<section>
+									<header>
+										<h3>Henry</h3>
+									</header>
+									<p>
+										XXXXXXXXXXX<br />
+										XXXXXXXXXX<br />
+										XXXXXXXXXXXXXXXXX<br />
+										XXXXXXXXXXX
+									</p>
+								</section>
+						</div>
+						</div>
+					</div>
+					</section>
+				</section>
+			</article>
+
+		<!-- Footer -->
+			<footer id="footer">
+				
+				<ul class="copyright">
+					<li>2014</li><li>Eva &amp; Henry</li>
+				</ul>
+			
+			</footer>
+
+	</body>
+</html>
