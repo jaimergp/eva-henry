@@ -272,6 +272,9 @@
 				display: block;
 				width: 100%;
 			}
+		.image.nooverlay:before {
+			background: none;
+		}
 
 /* Icon */
 
@@ -639,7 +642,7 @@
 
 		#header nav {
 			position: absolute;
-			right: 1.5em;
+			right: 1.5sem;
 			text-transform: uppercase;
 			top: 0.75em;
 			font-family: 'Libre Baskerville', serif;
@@ -794,13 +797,13 @@
 	#banner {
 		background-attachment: scroll, scroll, scroll, scroll;
 		background-color: #E0D5C1;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
-		background-position: bottom left, bottom right, top left, bottom center;
-		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 25em, 25em, auto, 40em;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png");
+		background-position: bottom left, bottom right, top left;
+		background-repeat: no-repeat, no-repeat, repeat;
+		background-size: 25em, 25em, auto;
 		color: #694738;
 		cursor: default;
-		padding-top: 6em;
+		padding-top: 0em;
 		text-align: center;
 	}
 
@@ -819,9 +822,9 @@
 */			color: #694738;
 			display: inline-block;
 			opacity: 0;
-			padding: 1em;
+			padding: 5em;
 			text-align: center;
-			margin-top: 27em;
+			margin-top: 0em;
 		}
 
 			#banner .inner header {
@@ -846,8 +849,8 @@
 
 			#banner .inner p {
 				letter-spacing: 0.1em;
-				margin: 0;
-				text-transform: uppercase;
+				margin: 2em;
+				/*text-transform: uppercase;*/
 			}
 
 				#banner .inner p a {

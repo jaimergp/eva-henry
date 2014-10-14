@@ -1,12 +1,23 @@
 <?php
 // Devolver lista de apuntados en un regalo
 
-require_once("Spyc.php");
-$data = spyc_load_file('regalos.txt');
-$apuntados = $data[$_GET['id']];
+$apuntados = file("apuntados.txt");
+
+
+if( isset($_POST['nombre']) ) {
+	$nombre = $_POST['nombre'];
+	array_push($apuntados, "#$nombre\n");
+
+	$fp = fopen("apuntados.txt", "w");
+	$fw = fwrite($fp, implode("", $apuntados));
+	fclose($fp);
+}
+
 echo "<ul>";
 foreach($apuntados as $apuntado) {
-	echo "<li>$apuntado</li>";
+	if (0 !== strpos($apuntado, '#')) {
+		echo "<li>$apuntado</li>";
+	}
 }
 echo "</ul>";
 

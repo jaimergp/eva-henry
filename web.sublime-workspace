@@ -64,34 +64,10 @@
 	"buffers":
 	[
 		{
-			"file": "contacto.html",
-			"settings":
-			{
-				"buffer_size": 4400,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "web.sublime-project",
-			"settings":
-			{
-				"buffer_size": 45,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/style.css",
-			"settings":
-			{
-				"buffer_size": 22548,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4254,
+				"buffer_size": 4230,
 				"line_ending": "Unix"
 			}
 		},
@@ -99,7 +75,31 @@
 			"file": "elgrandia.html",
 			"settings":
 			{
-				"buffer_size": 4445,
+				"buffer_size": 4325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "listadebodas.html",
+			"settings":
+			{
+				"buffer_size": 27066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tiempos.html",
+			"settings":
+			{
+				"buffer_size": 3540,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contacto.html",
+			"settings":
+			{
+				"buffer_size": 4674,
 				"line_ending": "Unix"
 			}
 		}
@@ -336,6 +336,9 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/henry/regalos.php",
+		"/C/xampp/htdocs/henry/css/style.css",
+		"/C/xampp/htdocs/henry/web.sublime-project",
 		"/C/xampp/htdocs/nuestroproyectodiez/web.sublime-project",
 		"/C/xampp/htdocs/henry/listadebodas.html",
 		"/C/xampp/htdocs/henry/tiempos.html",
@@ -460,10 +463,7 @@
 		"/home/jr/x/hyde/mol2/ethanol.mol2",
 		"/home/jr/x/hyde/mol2/01/propane.mol2",
 		"/home/jr/x/hyde/mol2/01/pentane.mol2",
-		"/home/jr/x/hyde/mol2/01/ethane.mol2",
-		"/home/jr/x/hyde/mof3d/utils/__init__.py",
-		"/home/jr/x/hyde/mof3d/score/target.py",
-		"/home/jr/.config/sublime-text-2/Packages/INI/INI.tmLanguage"
+		"/home/jr/x/hyde/mol2/01/ethane.mol2"
 	],
 	"find":
 	{
@@ -471,9 +471,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 105.0,
 		"where_history":
 		[
+			"<open files>",
 			"C:\\git\\miproyectodiez",
 			"<open files>",
 			"C:\\Users\\Jaime\\Desktop\\webs\\Biotab,*.html",
@@ -487,6 +488,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#main",
+			"83d3c9",
+			"form",
 			"ul",
 			"sans",
 			"footer",
@@ -611,10 +615,7 @@
 			"hyde5",
 			"calc.",
 			"score",
-			"mol",
-			"mol_library",
-			"oldRES",
-			"Highest"
+			"mol"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -622,6 +623,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"694738",
 			"Libre Baskerville",
 			"\"",
@@ -684,23 +686,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "contacto.html",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4400,
+						"buffer_size": 4230,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2341,
-								2022
+								4185,
+								4148
 							]
 						],
 						"settings":
@@ -798,25 +800,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1130.0,
+						"translation.y": 2845.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "web.sublime-project",
+					"file": "elgrandia.html",
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 4325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								45
+								3364,
+								3364
 							]
 						],
 						"settings":
@@ -910,28 +912,29 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1812.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "css/style.css",
+					"file": "listadebodas.html",
 					"settings":
 					{
-						"buffer_size": 22548,
+						"buffer_size": 27066,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18363,
-								18363
+								3192,
+								1883
 							]
 						],
 						"settings":
@@ -1025,29 +1028,29 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 20181.0,
+						"translation.y": 1035.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "index.html",
+					"file": "tiempos.html",
 					"settings":
 					{
-						"buffer_size": 4254,
+						"buffer_size": 3540,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2061,
-								2061
+								3223,
+								3223
 							]
 						],
 						"settings":
@@ -1145,25 +1148,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1143.0,
+						"translation.y": 1656.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "elgrandia.html",
+					"file": "contacto.html",
 					"settings":
 					{
-						"buffer_size": 4445,
+						"buffer_size": 4674,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2044,
-								2044
+								2563,
+								2563
 							]
 						],
 						"settings":
@@ -1261,7 +1264,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 638.0,
+						"translation.y": 1482.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

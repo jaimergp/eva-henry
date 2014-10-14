@@ -2,7 +2,7 @@
 
 // configuration
 $url = 'http://nuestroproyectodiez.info/editar/index.php';
-$file = '/home/nuestrop/public_html/regalos.txt';
+$file = 'regalos.txt';
 
 // check if form has been submitted
 if (isset($_POST['text']))
@@ -57,7 +57,8 @@ $text = file_get_contents($file);
 		<article id="main">
 			<section class="wrapper style3 container special">
 				<header class="major">
-					<h2>Editar listado de apuntados</strong></h2>
+					<h2>Editar listado de apuntados</h2>
+					<p>Elimina el carácter # de las líneas que desees publicar.</p>
 				</header>
 				<!-- HTML form -->
 				<form action="" method="post">
